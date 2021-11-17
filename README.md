@@ -1,4 +1,8 @@
-### I am currently learning go 
+### I am currently learning Haskell
+
+Just kidding.
+
+INSTALL GENTOO!
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moritz448&show_icons=true&theme=ocean_dark)
 
